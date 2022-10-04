@@ -1,0 +1,1030 @@
+[
+  {
+    "NDDFID": "065188",
+    "NDDF_ID": "065188",
+    "NAME": "gemcitabine HCl 2 gram INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1719005",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Breast Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Carcinoma, Pancreatic Ductal [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "gemcitabine"
+  },
+  {
+    "NDDFID": "066838",
+    "NDDF_ID": "066838",
+    "NAME": "eribulin mesylate 1 mg/2 mL (0.5 mg/mL) INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1045456",
+    "NDFRT_MECH": "Tubulin Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Breast Neoplasms [Disease/Finding]",
+      "Liposarcoma [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Microtubule Inhibition [PE]",
+      "Decreased Cellular Migration [PE]",
+      "Decreased Mitosis [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "eribulin mesylate"
+  },
+  {
+    "NDDFID": "067043",
+    "NDDF_ID": "067043",
+    "NAME": "topotecan HCl 4 mg/4 mL (1 mg/mL) INTRAVEN VIAL (ML)_#2",
+    "RXNORMCUI": "1799424",
+    "NDFRT_MECH": "Topoisomerase Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Small Cell Lung Carcinoma [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Uterine Cervical Neoplasms [Disease/Finding]",
+      "Carcinoma, Small Cell [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Replication [PE]"
+    ],
+    "INGREDIENT": "topotecan"
+  },
+  {
+    "NDDFID": "068084",
+    "NDDF_ID": "068084",
+    "NAME": "gemcitabine HCl 1 gram/26.3 mL (38 mg/mL) INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1720960",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Breast Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Carcinoma, Pancreatic Ductal [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "gemcitabine"
+  },
+  {
+    "NDDFID": "068085",
+    "NDDF_ID": "068085",
+    "NAME": "gemcitabine HCl 2 gram/52.6 mL (38 mg/mL) INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1720975",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Breast Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Carcinoma, Pancreatic Ductal [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "gemcitabine"
+  },
+  {
+    "NDDFID": "068086",
+    "NDDF_ID": "068086",
+    "NAME": "gemcitabine HCl 200 mg/5.26 mL (38 mg/mL) INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1720977",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Breast Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Carcinoma, Pancreatic Ductal [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "gemcitabine"
+  },
+  {
+    "NDDFID": "072990",
+    "NDDF_ID": "072990",
+    "NAME": "",
+    "RXNORMCUI": "",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": ""
+  },
+  {
+    "NDDFID": "072991",
+    "NDDF_ID": "072991",
+    "NAME": "",
+    "RXNORMCUI": "",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": ""
+  },
+  {
+    "NDDFID": "073319",
+    "NDDF_ID": "073319",
+    "NAME": "pegfilgrastim 6 mg/0.6 mL deliverable (0.64 mL) SUBCUT SYRINGE, WITH WEARABLE INJECTOR",
+    "RXNORMCUI": "2549331",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [
+      "Bone Marrow Cancer"
+    ],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "pegfilgrastim"
+  },
+  {
+    "NDDFID": "075249",
+    "NDDF_ID": "075249",
+    "NAME": "bendamustine HCl 25 mg/mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1726097",
+    "NDFRT_MECH": "Alkylating Activity [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Lymphoma, Non-Hodgkin [Disease/Finding]",
+      "Leukemia, Lymphoid [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "BENDAMUSTINE"
+  },
+  {
+    "NDDFID": "008765",
+    "NDDF_ID": "008765",
+    "NAME": "cyclophosphamide 1 gram INTRAVEN VIAL (EA)",
+    "INGREDIENT": "NATALIZUMAB",
+    "RXNORMCUI": "",
+    "NDFRT_MECH": "Integrin Receptor Antagonists [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Crohn Disease [Disease/Finding]",
+      "Multiple Sclerosis [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased Adhesion Factor Activity [PE]"
+    ]
+  },
+  {
+    "NDDFID": "008767",
+    "NDDF_ID": "008767",
+    "NAME": "cyclophosphamide 2 gram INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1734921",
+    "NDFRT_MECH": "Integrin Receptor Antagonists [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Crohn Disease [Disease/Finding]",
+      "Multiple Sclerosis [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased Adhesion Factor Activity [PE]"
+    ],
+    "INGREDIENT": "lanthanum carbonate"
+  },
+  {
+    "NDDFID": "008769",
+    "NDDF_ID": "008769",
+    "NAME": "cyclophosphamide 500 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1734917",
+    "NDFRT_MECH": "Integrin Receptor Antagonists [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Crohn Disease [Disease/Finding]",
+      "Multiple Sclerosis [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased Adhesion Factor Activity [PE]"
+    ],
+    "INGREDIENT": "CYCLOPHOSPHAMIDE"
+  },
+  {
+    "NDDFID": "008785",
+    "NDDF_ID": "008785",
+    "NAME": "cisplatin 1 mg/mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "309311",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Astrocytoma [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Testicular Neoplasms [Disease/Finding]",
+      "Osteosarcoma [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Melanoma, Amelanotic [Disease/Finding]",
+      "Neuroblastoma [Disease/Finding]",
+      "Esophageal Neoplasms [Disease/Finding]",
+      "Lung Neoplasms [Disease/Finding]",
+      "Hodgkin Disease [Disease/Finding]",
+      "Mesothelioma, Cystic [Disease/Finding]",
+      "Prostatic Neoplasms [Disease/Finding]",
+      "Lymphoma, Non-Hodgkin [Disease/Finding]",
+      "Stomach Neoplasms [Disease/Finding]",
+      "Multiple Myeloma [Disease/Finding]",
+      "Urinary Bladder Neoplasms [Disease/Finding]",
+      "Carcinoma, Small Cell [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]"
+    ],
+    "INGREDIENT": "Cisplatin"
+  },
+  {
+    "NDDFID": "008787",
+    "NDDF_ID": "008787",
+    "NAME": "carboplatin 150 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "597195",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "carboplatin"
+  },
+  {
+    "NDDFID": "008788",
+    "NDDF_ID": "008788",
+    "NAME": "Lactuca virosa / wild lettuce",
+    "RXNORMCUI": "1311289",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "wild lettuce"
+  },
+  {
+    "NDDFID": "008789",
+    "NDDF_ID": "008789",
+    "NAME": "lactuca virosa extract / wild lettuce",
+    "RXNORMCUI": "",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "wild lettuce"
+  },
+  {
+    "NDDFID": "008801",
+    "NDDF_ID": "008801",
+    "NAME": "glyceryl stearate se",
+    "RXNORMCUI": "1364379",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "glyceryl stearate"
+  },
+  {
+    "NDDFID": "008812",
+    "NDDF_ID": "008812",
+    "NAME": "vincristine sulfate 1 mg/mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1863343",
+    "NDFRT_MECH": "Tubulin Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Rhabdomyosarcoma [Disease/Finding]",
+      "Wilms Tumor [Disease/Finding]",
+      "Neuroblastoma [Disease/Finding]",
+      "Hodgkin Disease [Disease/Finding]",
+      "Lymphoma, Non-Hodgkin [Disease/Finding]",
+      "Leukemia [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased Mitosis [PE]",
+      "Cellular Growth Phase Arrest [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "Vincristine Sulfate"
+  },
+  {
+    "NDDFID": "008815",
+    "NDDF_ID": "008815",
+    "NAME": "doxorubicin HCl 10 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1790103",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [
+      "bladder, breast, lung, stomach, and ovarian cancer",
+      "Hodgkin's lymphoma",
+      "acute lymphoblastic leukemia",
+      "acute myeloid leukemia"
+    ],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "doxorubicin"
+  },
+  {
+    "NDDFID": "008817",
+    "NDDF_ID": "008817",
+    "NAME": "magnolia bark extract",
+    "RXNORMCUI": "",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "magnolia bark"
+  },
+  {
+    "NDDFID": "008819",
+    "NDDF_ID": "008819",
+    "NAME": "doxorubicin HCl 2 mg/mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1191138",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [
+      "bladder, breast, lung, stomach, and ovarian cancer",
+      "Hodgkin's lymphoma",
+      "acute lymphoblastic leukemia",
+      "acute myeloid leukemia"
+    ],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "doxorubicin"
+  },
+  {
+    "NDDFID": "00818",
+    "NDDF_ID": "00818",
+    "NAME": "doxorubicin HCl 50 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1790095",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [
+      "bladder, breast, lung, stomach, and ovarian cancer",
+      "Hodgkin's lymphoma",
+      "acute lymphoblastic leukemia",
+      "acute myeloid leukemia"
+    ],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "doxorubicin"
+  },
+  {
+    "NDDFID": "053713",
+    "NDDF_ID": "053713",
+    "NAME": "bevacizumab 25 mg/mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "253337",
+    "NDFRT_MECH": "Vascular Endothelial Growth Factor Receptor Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Fallopian Tube Neoplasms [Disease/Finding]",
+      "Colorectal Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Kidney Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Glioblastoma [Disease/Finding]",
+      "Peritoneal Neoplasms [Disease/Finding]",
+      "Uterine Cervical Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Vascular Growth Decrease [PE]"
+    ],
+    "INGREDIENT": "bevacizumab"
+  },
+  {
+    "NDDFID": "059162",
+    "NDDF_ID": "059162",
+    "NAME": "oxaliplatin 50 mg/10 mL (5 mg/mL) INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1736776",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Testicular Neoplasms [Disease/Finding]",
+      "Colorectal Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Urinary Bladder Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Replication [PE]",
+      "Decreased DNA Integrity [PE]"
+    ],
+    "INGREDIENT": "oxaliplatin"
+  },
+  {
+    "NDDFID": "059163",
+    "NDDF_ID": "059163",
+    "NAME": "oxaliplatin 100 mg/20 mL (5 mg/mL) INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1736781",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Testicular Neoplasms [Disease/Finding]",
+      "Colorectal Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Urinary Bladder Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Replication [PE]",
+      "Decreased DNA Integrity [PE]"
+    ],
+    "INGREDIENT": "oxaliplatin"
+  },
+  {
+    "NDDFID": "061073",
+    "NDDF_ID": "061073",
+    "NAME": "",
+    "RXNORMCUI": "",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": ""
+  },
+  {
+    "NDDFID": "061483",
+    "NDDF_ID": "061483",
+    "NAME": "doxorubicin HCl 10 mg/5 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1790097",
+    "NDFRT_MECH": "Topoisomerase 2 Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Soft Tissue Neoplasms [Disease/Finding]",
+      "Mesothelioma [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Wilms Tumor [Disease/Finding]",
+      "Testicular Neoplasms [Disease/Finding]",
+      "Precursor Cell Lymphoblastic Leukemia-Lymphoma [Disease/Finding]",
+      "Uterine Neoplasms [Disease/Finding]",
+      "Osteosarcoma [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Neuroblastoma [Disease/Finding]",
+      "Liver Neoplasms [Disease/Finding]",
+      "Lung Neoplasms [Disease/Finding]",
+      "Hodgkin Disease [Disease/Finding]",
+      "Prostatic Neoplasms [Disease/Finding]",
+      "Gastrointestinal Neoplasms [Disease/Finding]",
+      "Multiple Myeloma [Disease/Finding]",
+      "Leukemia, Myeloid, Acute [Disease/Finding]",
+      "Urinary Bladder Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Thyroid Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Decreased RNA Integrity [PE]"
+    ],
+    "INGREDIENT": "Doxorubicin Hydrochloride"
+  },
+  {
+    "NDDFID": "061484",
+    "NDDF_ID": "061484",
+    "NAME": "doxorubicin HCl 50 mg/25 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1790100",
+    "NDFRT_MECH": "Topoisomerase 2 Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Soft Tissue Neoplasms [Disease/Finding]",
+      "Mesothelioma [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Wilms Tumor [Disease/Finding]",
+      "Testicular Neoplasms [Disease/Finding]",
+      "Precursor Cell Lymphoblastic Leukemia-Lymphoma [Disease/Finding]",
+      "Uterine Neoplasms [Disease/Finding]",
+      "Osteosarcoma [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Neuroblastoma [Disease/Finding]",
+      "Liver Neoplasms [Disease/Finding]",
+      "Lung Neoplasms [Disease/Finding]",
+      "Hodgkin Disease [Disease/Finding]",
+      "Prostatic Neoplasms [Disease/Finding]",
+      "Gastrointestinal Neoplasms [Disease/Finding]",
+      "Multiple Myeloma [Disease/Finding]",
+      "Leukemia, Myeloid, Acute [Disease/Finding]",
+      "Urinary Bladder Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Thyroid Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Decreased RNA Integrity [PE]"
+    ],
+    "INGREDIENT": "Doxorubicin Hydrochloride"
+  },
+  {
+    "NDDFID": "061669",
+    "NDDF_ID": "061669",
+    "NAME": "fluorouracil 500 mg/10 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1791701",
+    "NDFRT_MECH": "Thymidylate Synthetase Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Rectal Neoplasms [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Keratosis [Disease/Finding]",
+      "Carcinoma, Basal Cell [Disease/Finding]",
+      "Stomach Neoplasms [Disease/Finding]",
+      "Colonic Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Head and Neck Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Decreased RNA Integrity [PE]"
+    ],
+    "INGREDIENT": "Fluorouracil"
+  },
+  {
+    "NDDFID": "061670",
+    "NDDF_ID": "061670",
+    "NAME": "fluorouracil 1 gram/20 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1791736",
+    "NDFRT_MECH": "Thymidylate Synthetase Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Rectal Neoplasms [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Keratosis [Disease/Finding]",
+      "Carcinoma, Basal Cell [Disease/Finding]",
+      "Stomach Neoplasms [Disease/Finding]",
+      "Colonic Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Head and Neck Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Decreased RNA Integrity [PE]"
+    ],
+    "INGREDIENT": "Fluorouracil"
+  },
+  {
+    "NDDFID": "061671",
+    "NDDF_ID": "061671",
+    "NAME": "fluorouracil 2.5 gram/50 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "239177",
+    "NDFRT_MECH": "Thymidylate Synthetase Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Rectal Neoplasms [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Keratosis [Disease/Finding]",
+      "Carcinoma, Basal Cell [Disease/Finding]",
+      "Stomach Neoplasms [Disease/Finding]",
+      "Colonic Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Head and Neck Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Decreased RNA Integrity [PE]"
+    ],
+    "INGREDIENT": "Fluorouracil"
+  },
+  {
+    "NDDFID": "061672",
+    "NDDF_ID": "061672",
+    "NAME": "fluorouracil 5 gram/100 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "239177",
+    "NDFRT_MECH": "Thymidylate Synthetase Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Rectal Neoplasms [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Keratosis [Disease/Finding]",
+      "Carcinoma, Basal Cell [Disease/Finding]",
+      "Stomach Neoplasms [Disease/Finding]",
+      "Colonic Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Head and Neck Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Decreased RNA Integrity [PE]"
+    ],
+    "INGREDIENT": "Fluorouracil"
+  },
+  {
+    "NDDFID": "061845",
+    "NDDF_ID": "061845",
+    "NAME": "vincristine sulfate 2 mg/2 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1863354",
+    "NDFRT_MECH": "Tubulin Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Rhabdomyosarcoma [Disease/Finding]",
+      "Wilms Tumor [Disease/Finding]",
+      "Neuroblastoma [Disease/Finding]",
+      "Hodgkin Disease [Disease/Finding]",
+      "Lymphoma, Non-Hodgkin [Disease/Finding]",
+      "Leukemia [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased Mitosis [PE]",
+      "Cellular Growth Phase Arrest [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "Vincristine Sulfate"
+  },
+  {
+    "NDDFID": "062173",
+    "NDDF_ID": "062173",
+    "NAME": "irinotecan HCl 40 mg/2 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1726319",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [
+      "Colorectal Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "irinotecan"
+  },
+  {
+    "NDDFID": "062174",
+    "NDDF_ID": "062174",
+    "NAME": "irinotecan HCl 100 mg/5 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1726324",
+    "NDFRT_MECH": "Topoisomerase Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Neoplasm Metastasis [Disease/Finding]",
+      "Rectal Neoplasms [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Leukemia [Disease/Finding]",
+      "Stomach Neoplasms [Disease/Finding]",
+      "Colonic Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Lymphoma [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Cellular Proliferation Alteration [PE]",
+      "Decreased DNA Integrity [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "irinotecan hydrochlorid"
+  },
+  {
+    "NDDFID": "062175",
+    "NDDF_ID": "062175",
+    "NAME": "oxaliplatin 200 mg/40 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1797528",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Testicular Neoplasms [Disease/Finding]",
+      "Colorectal Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Urinary Bladder Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Replication [PE]",
+      "Decreased DNA Integrity [PE]"
+    ],
+    "INGREDIENT": "oxaliplatin"
+  },
+  {
+    "NDDFID": "063305",
+    "NDDF_ID": "063305",
+    "NAME": "irinotecan HCl 500 mg/25 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1726492",
+    "NDFRT_MECH": "Topoisomerase Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Neoplasm Metastasis [Disease/Finding]",
+      "Rectal Neoplasms [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Leukemia [Disease/Finding]",
+      "Stomach Neoplasms [Disease/Finding]",
+      "Colonic Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Lymphoma [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Cellular Proliferation Alteration [PE]",
+      "Decreased DNA Integrity [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "irinotecan hydrochlorid"
+  },
+  {
+    "NDDFID": "064079",
+    "NDDF_ID": "064079",
+    "NAME": "irinotecan HCl 300 mg/15 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1726333",
+    "NDFRT_MECH": "Topoisomerase Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Neoplasm Metastasis [Disease/Finding]",
+      "Rectal Neoplasms [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Leukemia [Disease/Finding]",
+      "Stomach Neoplasms [Disease/Finding]",
+      "Colonic Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Lymphoma [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Cellular Proliferation Alteration [PE]",
+      "Decreased DNA Integrity [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "irinotecan hydrochlorid"
+  },
+  {
+    "NDDFID": "064126",
+    "NDDF_ID": "064126",
+    "NAME": "doxorubicin HCl 20 mg/10 mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "1790099",
+    "NDFRT_MECH": "Topoisomerase 2 Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Soft Tissue Neoplasms [Disease/Finding]",
+      "Mesothelioma [Disease/Finding]",
+      "Breast Neoplasms [Disease/Finding]",
+      "Wilms Tumor [Disease/Finding]",
+      "Testicular Neoplasms [Disease/Finding]",
+      "Precursor Cell Lymphoblastic Leukemia-Lymphoma [Disease/Finding]",
+      "Uterine Neoplasms [Disease/Finding]",
+      "Osteosarcoma [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Neuroblastoma [Disease/Finding]",
+      "Liver Neoplasms [Disease/Finding]",
+      "Lung Neoplasms [Disease/Finding]",
+      "Hodgkin Disease [Disease/Finding]",
+      "Prostatic Neoplasms [Disease/Finding]",
+      "Gastrointestinal Neoplasms [Disease/Finding]",
+      "Multiple Myeloma [Disease/Finding]",
+      "Leukemia, Myeloid, Acute [Disease/Finding]",
+      "Urinary Bladder Neoplasms [Disease/Finding]",
+      "Pancreatic Neoplasms [Disease/Finding]",
+      "Thyroid Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Decreased RNA Integrity [PE]"
+    ],
+    "INGREDIENT": "Doxorubicin Hydrochloride"
+  },
+  {
+    "NDDFID": "018764",
+    "NDDF_ID": "018764",
+    "NAME": "aducanumab-avwa",
+    "RXNORMCUI": "2557218",
+    "NDFRT_MECH": "immunoglobulin gamma 1 (IgG1) human monoclonal antibody",
+    "NDFRT_MAY_TREAT": [
+      "Alzheimers"
+    ],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "aducanumab-avwa"
+  },
+  {
+    "NDDFID": "025665",
+    "NDDF_ID": "025665",
+    "NAME": "",
+    "RXNORMCUI": "",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": ""
+  },
+  {
+    "NDDFID": "025728",
+    "NDDF_ID": "025728",
+    "NAME": "gemcitabine HCl 200 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1719000",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Breast Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Carcinoma, Pancreatic Ductal [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "gemcitabine"
+  },
+  {
+    "NDDFID": "025729",
+    "NDDF_ID": "025729",
+    "NAME": "gemcitabine HCl 1 gram INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1719003",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Breast Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Carcinoma, Pancreatic Ductal [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Integrity [PE]",
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "gemcitabine"
+  },
+  {
+    "NDDFID": "026807",
+    "NDDF_ID": "026807",
+    "NAME": "topotecan HCl 4 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1799416",
+    "NDFRT_MECH": "Topoisomerase Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Small Cell Lung Carcinoma [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Uterine Cervical Neoplasms [Disease/Finding]",
+      "Carcinoma, Small Cell [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Replication [PE]"
+    ],
+    "INGREDIENT": "Topotecan Hydrochloride"
+  },
+  {
+    "NDDFID": "036550",
+    "NDDF_ID": "036550",
+    "NAME": "oxaliplatin 50 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1736784",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Testicular Neoplasms [Disease/Finding]",
+      "Colorectal Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Urinary Bladder Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Replication [PE]",
+      "Decreased DNA Integrity [PE]"
+    ],
+    "INGREDIENT": "oxaliplatin"
+  },
+  {
+    "NDDFID": "036745",
+    "NDDF_ID": "036745",
+    "NAME": "bendamustine HCl 25 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1805007",
+    "NDFRT_MECH": "Alkylating Activity [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Lymphoma, Non-Hodgkin [Disease/Finding]",
+      "Leukemia, Lymphoid [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "BENDAMUSTINE"
+  },
+  {
+    "NDDFID": "036758",
+    "NDDF_ID": "036758",
+    "NAME": "oxaliplatin 100 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1736786",
+    "NDFRT_MECH": "Nucleic Acid Synthesis Inhibitors [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Testicular Neoplasms [Disease/Finding]",
+      "Colorectal Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Urinary Bladder Neoplasms [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased DNA Replication [PE]",
+      "Decreased DNA Integrity [PE]"
+    ],
+    "INGREDIENT": "oxaliplatin"
+  },
+  {
+    "NDDFID": "036870",
+    "NDDF_ID": "036870",
+    "NAME": "rituximab 10 mg/mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "121191",
+    "NDFRT_MECH": "CD20 Antibody-Receptor Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Microscopic Polyangiitis [Disease/Finding]",
+      "Arthritis, Rheumatoid [Disease/Finding]",
+      "Granulomatosis with Polyangiitis [Disease/Finding]",
+      "Leukemia, Lymphoid [Disease/Finding]",
+      "Lymphoma, B-Cell [Disease/Finding]",
+      "Lymphoma, Mantle-Cell [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Increased Cellular Death [PE]"
+    ],
+    "INGREDIENT": "rituximab"
+  },
+  {
+    "NDDFID": "038450",
+    "NDDF_ID": "038450",
+    "NAME": "carboplatin 10 mg/mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "597195",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "carboplatin"
+  },
+  {
+    "NDDFID": "042496",
+    "NDDF_ID": "042496",
+    "NAME": "bendamustine HCl 100 mg INTRAVEN VIAL (EA)",
+    "RXNORMCUI": "1805001",
+    "NDFRT_MECH": "Alkylating Activity [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Lymphoma, Non-Hodgkin [Disease/Finding]",
+      "Leukemia, Lymphoid [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "BENDAMUSTINE"
+  },
+  {
+    "NDDFID": "044533",
+    "NDDF_ID": "044533",
+    "NAME": "leucovorin calcium 100 mg INJECTION VIAL (EA)",
+    "RXNORMCUI": "1803932",
+    "NDFRT_MECH": "Enzyme Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Drug Toxicity [Disease/Finding]",
+      "Anemia, Megaloblastic [Disease/Finding]",
+      "Folic Acid Deficiency [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Cellular Activity Alteration [PE]"
+    ],
+    "INGREDIENT": "leucovorin/Citrovorum Factor"
+  },
+  {
+    "NDDFID": "044534",
+    "NDDF_ID": "044534",
+    "NAME": "leucovorin calcium 350 mg INJECTION VIAL (EA)",
+    "RXNORMCUI": "237788",
+    "NDFRT_MECH": "Enzyme Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Drug Toxicity [Disease/Finding]",
+      "Anemia, Megaloblastic [Disease/Finding]",
+      "Folic Acid Deficiency [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Cellular Activity Alteration [PE]"
+    ],
+    "INGREDIENT": "leucovorin/Citrovorum Factor"
+  },
+  {
+    "NDDFID": "044535",
+    "NDDF_ID": "044535",
+    "NAME": "leucovorin calcium 50 mg INJECTION VIAL (EA)",
+    "RXNORMCUI": "1803930",
+    "NDFRT_MECH": "Enzyme Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Drug Toxicity [Disease/Finding]",
+      "Anemia, Megaloblastic [Disease/Finding]",
+      "Folic Acid Deficiency [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Cellular Activity Alteration [PE]"
+    ],
+    "INGREDIENT": "leucovorin/Citrovorum Factor"
+  },
+  {
+    "NDDFID": "044540",
+    "NDDF_ID": "044540",
+    "NAME": "leucovorin calcium 10 mg/mL INJECTION VIAL (ML)_#1",
+    "RXNORMCUI": "2099993",
+    "NDFRT_MECH": "Enzyme Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Drug Toxicity [Disease/Finding]",
+      "Anemia, Megaloblastic [Disease/Finding]",
+      "Folic Acid Deficiency [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Cellular Activity Alteration [PE]"
+    ],
+    "INGREDIENT": "leucovorin/Citrovorum Factor"
+  },
+  {
+    "NDDFID": "044541",
+    "NDDF_ID": "044541",
+    "NAME": "leucovorin calcium 200 mg INJECTION VIAL (EA)",
+    "RXNORMCUI": "1803937",
+    "NDFRT_MECH": "Enzyme Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Drug Toxicity [Disease/Finding]",
+      "Anemia, Megaloblastic [Disease/Finding]",
+      "Folic Acid Deficiency [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Cellular Activity Alteration [PE]"
+    ],
+    "INGREDIENT": "leucovorin/Citrovorum Factor"
+  },
+  {
+    "NDDFID": "044542",
+    "NDDF_ID": "044542",
+    "NAME": "leucovorin calcium 500 mg INJECTION VIAL (EA)",
+    "RXNORMCUI": "2055036",
+    "NDFRT_MECH": "Enzyme Interactions [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Drug Toxicity [Disease/Finding]",
+      "Anemia, Megaloblastic [Disease/Finding]",
+      "Folic Acid Deficiency [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Cellular Activity Alteration [PE]"
+    ],
+    "INGREDIENT": "leucovorin/Citrovorum Factor"
+  },
+  {
+    "NDDFID": "046997",
+    "NDDF_ID": "046997",
+    "NAME": "paclitaxel 6 mg/mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "312199",
+    "NDFRT_MECH": "Immunologic Adjuvants [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Breast Neoplasms [Disease/Finding]",
+      "Ovarian Neoplasms [Disease/Finding]",
+      "Carcinoma, Non-Small-Cell Lung [Disease/Finding]",
+      "Sarcoma, Kaposi [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Decreased Mitosis [PE]"
+    ],
+    "INGREDIENT": "Paclitaxel"
+  },
+  {
+    "NDDFID": "049872",
+    "NDDF_ID": "049872",
+    "NAME": "pegfilgrastim 6 mg/0.6 mL SUBCUT SYRINGE (ML)",
+    "RXNORMCUI": "727539",
+    "NDFRT_MECH": "Receptor Activity Modifying Protein Agonists [MoA]",
+    "NDFRT_MAY_TREAT": [
+      "Neutropenia [Disease/Finding]"
+    ],
+    "NDF_EFFECT": [
+      "Increased Granulocytic Cell Production [PE]"
+    ],
+    "INGREDIENT": "pegfilgrastim"
+  },
+  {
+    "NDDFID": "008841",
+    "NDDF_ID": "008841",
+    "NAME": "etoposide 20 mg/mL INTRAVEN VIAL (ML)",
+    "RXNORMCUI": "310248",
+    "NDFRT_MECH": "",
+    "NDFRT_MAY_TREAT": [],
+    "NDF_EFFECT": [],
+    "INGREDIENT": "ETOPOSIDE"
+  }
+]
